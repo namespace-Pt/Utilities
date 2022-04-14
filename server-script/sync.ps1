@@ -1,6 +1,6 @@
 Param(
     [string]$s = "153",
-    [string]$src = "$PWD",
+    [string]$src = $PWD,
     [string]$dest,
     [switch]$r,
     [switch]$a,
